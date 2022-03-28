@@ -1,7 +1,7 @@
 # Laser4DIY-Coin
 Laser4DIY Coin Demo PCB
 
-Liitle RGB LED ring for testing the LASER:
+Little RGB LED ring for testing the Laser4DIY PCB laser:
 - 12x WS2812 compatible adressable 1515 LEDs
 - Attinyx5 (.., 45, 85) as controller
 - 17mm Diameter
